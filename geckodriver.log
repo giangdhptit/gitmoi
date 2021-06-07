@@ -1,0 +1,180 @@
+1622960135153	geckodriver	INFO	Listening on 127.0.0.1:51736
+1622960138224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bi\\AppData\\Local\\Temp\\rust_mozprofileJUqEtv"
+1622960138602	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622960140556	Marionette	INFO	Listening on port 62268
+1622960140901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 357: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1623032209670	Marionette	INFO	Stopped listening on port 62268
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623032219911	geckodriver	INFO	Listening on 127.0.0.1:57044
+1623032222953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bi\\AppData\\Local\\Temp\\rust_mozprofiledygy03"
+1623032223317	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623032225298	Marionette	INFO	Listening on port 57052
+1623032225635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 357: unreachable code after return statement
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623033366390	Marionette	INFO	Listening on port 60326
+1623033366662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+sts, new profile?" (new Error("", "(unknown module)"))
+1623033740215	Marionette	INFO	Listening on port 61969
+1623033740629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+sts, new profile?" (new Error("", "(unknown module)"))
+1623033752770	Marionette	INFO	Listening on port 62153
+1623033752938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+sts, new profile?" (new Error("", "(unknown module)"))
+1623033820296	Marionette	INFO	Listening on port 59335
+1623033820346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet1623033829456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile"JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+sts, new profile?" (new Error("", "(unknown module)"))
+1623034562599	Marionette	INFO	Listening on port 54851
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:54894
+1623034569294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bi\\AppData\\Local\\Temp\\rust_mozprofile5WotpO"
+1623034570596	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623034574155	Marionette	INFO	Listening on port 55424
+1623034574606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+1623034581171	geckodriver	INFO	Listening on 127.0.0.1:55554
+1623034584229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bi\\AppData\\Local\\Temp\\rust_mozprofileygTGzE"
+1623034584945	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623034588605	Marionette	INFO	Listening on port 55593
+1623034589050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+1623034626353	geckodriver	INFO	Listening on 127.0.0.1:50801
+1623034629385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bi\\AppData\\Local\\Temp\\rust_mozprofileFv4K4U"
+1623034630006	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623034635993	Marionette	INFO	Listening on port 50809
+1623034636693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+1623034650335	geckodriver	INFO	Listening on 127.0.0.1:50973
+1623034653367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bi\\AppData\\Local\\Temp\\rust_mozprofile2XPTNM"
+1623034654016	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623034657496	Marionette	INFO	Listening on port 50982
+1623034657596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+1623034672198	geckodriver	INFO	Listening on 127.0.0.1:62203
+1623034675236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bi\\AppData\\Local\\Temp\\rust_mozprofilevpf0Sj"
+1623034675888	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623034679514	Marionette	INFO	Listening on port 62211
+1623034680038	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+1623034693910	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1623034695962	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+l\\Temp\\rust_mozprofileK4YfKt"
+1623034694890	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623034704325	Marionette	INFO	Listening on port 54547
+1623034704806	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+1623034725293	geckodriver	INFO	Listening on 127.0.0.1:60503
+1623034728311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bi\\AppData\\Local\\Temp\\rust_mozprofile7G6jcf"
+1623034728986	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623034733947	Marionette	INFO	Listening on port 60511
+1623034734445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript error: https://6a9c983faf428d2e461066e7eec9fe3a.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: ReferenceError: sspcallback is not defined
+1623034968622	geckodriver	INFO	Listening on 127.0.0.1:63136
+1623034971661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bi\\AppData\\Local\\Temp\\rust_mozprofile8xjuBK"
+1623034972625	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623034978775	Marionette	INFO	Listening on port 58187
+1623034979282	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+1623035012817	geckodriver	INFO	Listening on 127.0.0.1:58411
+1623035015846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bi\\AppData\\Local\\Temp\\rust_mozprofilesgnewx"
+1623035018116	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623035027522	Marionette	INFO	Listening on port 58433
+1623035027719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+1623035048995	geckodriver	INFO	Listening on 127.0.0.1:53399
+1623035051921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bi\\AppData\\Local\\Temp\\rust_mozprofileaIwW7J"
+1623035055176	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623035064121	Marionette	INFO	Listening on port 53421
+1623035064436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://embed.vietnamnettv.vn/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
+JavaScript warning: https://jsc.mgid.com/m/g/mgid.vietnamnet.vn.944997.js, line 1: WebGL context was lost.
